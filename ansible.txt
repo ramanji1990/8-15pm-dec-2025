@@ -1,1 +1,5 @@
-welcome to devops
+--- 
+- hosts: localhosts
+  tasks:
+- name: install java package
+ 
